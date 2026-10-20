@@ -3,4 +3,4 @@
 
 <p>So much to be built. So little time.</p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ToniChowBea&" alt="ToniChowBea" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ToniChowBea&" alt="ToniChowBea" /></p>
